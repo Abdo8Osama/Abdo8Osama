@@ -12,7 +12,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/abdo-osama-5b1928121">
+  <a href=" www.linkedin.com/in/abdulrahman-osama-5b1928121">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://twitter.com/AbdoOsama301">
@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning about Embedded software development and Architectural Designs .
 - ⚡ Exploring new technologies relted to Automotive Industry.
 - 😄 In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdo_osama-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abdo-osama-5b1928121)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdo_osama-blue?style=flat&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/abdulrahman-osama-5b1928121)
 
 ---
 
